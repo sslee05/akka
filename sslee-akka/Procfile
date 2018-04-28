@@ -1,0 +1,2 @@
+web: target/universal/stage/bin/sslee-akka
+console: target/universal/stage/bin/sslee-akka -main scala.tools.nsc.MainGenericRunner -usejavacp
